@@ -13,3 +13,7 @@ Cryptography Algorithm(AES) for cloud storage.
 # System Architecture
 ![image](https://github.com/user-attachments/assets/3b2589f3-c52e-4854-9d8a-3ed3a024e531)
 
+# Home page
+![image](https://github.com/user-attachments/assets/5afc9fda-e091-41ac-abb1-f6fa5c0ce4ff)
+
+
