@@ -16,4 +16,6 @@ Cryptography Algorithm(AES) for cloud storage.
 # Home page
 ![image](https://github.com/user-attachments/assets/5afc9fda-e091-41ac-abb1-f6fa5c0ce4ff)
 
+Click the "Key Generation" button and enter your password to initiate the authentication process. Once authenticated, you can encrypt your file and send it to the intended recipient. The recipient can then decrypt and read the file. This ensures the protection of sensitive data from unauthorized access.
+
 
